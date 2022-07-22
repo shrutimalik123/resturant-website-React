@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <h1> Khana Khazana</h1>
+        <h1> Gourmet Khazana</h1>
         <MdOutlineRestaurantMenu/>
       </div>
       <ul className="app__navbar-links">
