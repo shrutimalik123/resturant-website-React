@@ -12,6 +12,8 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    color: var(--color-golden);
+   
 }
 
 .app__navbar-logo img {
